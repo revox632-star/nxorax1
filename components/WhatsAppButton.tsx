@@ -2,7 +2,7 @@
 import React from 'react';
 
 const WhatsAppButton: React.FC = () => {
-  const whatsappNumber = "+20123456789"; // Replace with actual support number
+  const whatsappNumber = "+201009285935"; // Replace with actual support number
   const message = encodeURIComponent("Hello NEXORAX Support, I have a question.");
 
   return (
