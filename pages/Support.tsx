@@ -168,7 +168,7 @@ const Support: React.FC = () => {
                   </div>
                   <div>
                     <h4 className="text-lg font-bold text-white mb-2">Phone</h4>
-                    <p className="text-slate-400">+20 123 456 7890</p>
+                    <p className="text-slate-400">+201009285935</p>
                     <p className="text-[10px] font-black uppercase text-cyan-500/60 mt-1 tracking-widest">Available 24/7</p>
                   </div>
                 </div>
