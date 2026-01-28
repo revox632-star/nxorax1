@@ -85,7 +85,7 @@ const CourseList: React.FC<CourseListProps> = ({ courses, user, onMenuClick }) =
                       </Link>
                     ) : (
                       <a 
-                        href={`https://wa.me/+20123456789?text=${encodeURIComponent(`أرغب في شراء كورس: ${course.title}`)}`}
+                        href={`https://wa.me/+201009285935?text=${encodeURIComponent(`أرغب في شراء كورس: ${course.title}`)}`}
                         target="_blank"
                         rel="noopener noreferrer"
                         className="flex items-center justify-center gap-3 w-full bg-slate-800 hover:bg-slate-700 text-white font-black py-4.5 rounded-2xl transition-all border border-slate-700 active:scale-95"
